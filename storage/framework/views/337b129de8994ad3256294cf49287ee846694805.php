@@ -1,0 +1,1 @@
+<h1>Ini halaman about pakai HTML</h1><?php /**PATH D:\laravel\new-laravel\resources\views/about.blade.php ENDPATH**/ ?>
